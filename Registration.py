@@ -1,7 +1,7 @@
 import os
-from NEWcut_frames import extract_faces
-from NEWaugmentation import augment_faces_for_person
-from NEWencodings import encode_faces_for_person
+from Single_cut_frames import extract_faces
+from Single_augmentation import augment_faces_for_person
+from Single_encodings import encode_faces_for_person
 
 # Map of people to their video paths
 person_video_map = {
