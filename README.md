@@ -9,7 +9,8 @@
 
 
 ## Installation
-1. Clone this repository:
+1. Clone the boxmot repository
+2. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/face-attendance-system.git
    cd face-attendance-system
