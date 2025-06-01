@@ -42,6 +42,23 @@
 #### Batch Processing 
 - [ ] **Augment_all_the_dataset.py**  
   Automatically enhances all registered faces with variations
-- [ ] **generate_encodings_for_all_the_dataset**  
+- [ ] **generate_encodings_for_all_the_dataset.py**  
   Produces recognition encodings for the entire dataset at once
+
+
+#### Structure of the known faces
+known_faces/
+│
+├── [person_1]/                                   
+│   ├── frame_001.jpg        
+│   ├── frame_002.jpg        
+│   └── ...
+├── [person_2]/                                   
+│   ├── frame_001.jpg        
+│   ├── frame_002.jpg        
+│   └── ...
+└── ...       
+
+
+##### Finally run "main.py"
 
