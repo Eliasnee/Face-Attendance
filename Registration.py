@@ -5,7 +5,7 @@ from Single_encodings import encode_faces_for_person
 
 # Map of people to their video paths
 person_video_map = {
-    "Rita": r"C:\Users\OWNER\Desktop\Videos\WhatsApp Video 2025-05-29 at 19.06.36_073f7ecb.mp4"
+    "Elias": r"C:\Users\OWNER\Desktop\Videos\WhatsApp Video 2025-05-29 at 19.06.36_073f7ecb.mp4"
 }
 def register_people(person_video_map):
     for person_name, video_path in person_video_map.items():
