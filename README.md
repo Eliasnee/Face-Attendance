@@ -18,9 +18,12 @@
 ## Install dependencies
    ```bash
    pip install -r requirements.txt
+```
+
 ### Or manually
       ```bash
       pip install opencv-python numpy face-recognition ultralytics boxmot
+      ```
 
 
 
