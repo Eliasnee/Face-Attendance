@@ -1,4 +1,3 @@
-# Face-recognition
 # Face Recognition Attendance System
 
 ## Features
@@ -14,3 +13,13 @@
    ```bash
    git clone https://github.com/yourusername/face-attendance-system.git
    cd face-attendance-system
+
+
+## Install dependencies
+pip install -r requirements.txt
+### Or manually 
+      pip install opencv-python numpy face-recognition ultralytics boxmot
+
+
+
+
