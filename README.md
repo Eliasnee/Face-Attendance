@@ -21,9 +21,9 @@
 ```
 
 ### Or manually
-      ```bash
-      pip install opencv-python numpy face-recognition ultralytics boxmot
-      ```
+   ```bash
+   pip install opencv-python numpy face-recognition ultralytics boxmot
+```
 
 
 
