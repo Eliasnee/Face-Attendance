@@ -58,14 +58,6 @@ known_faces/
 │   ├── img001.jpg        
 │   ├── img002.jpg        
 │   └── ...
-├── person_3/                 
-│   ├── img001.jpg        
-│   ├── img002.jpg        
-│   └── ...
-├── person_4/                 
-│   ├── img001.jpg        
-│   ├── img002.jpg        
-│   └── ...
 
 
 
