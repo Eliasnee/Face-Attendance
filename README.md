@@ -48,7 +48,25 @@
 
 
 #### Structure of the known faces
-<pre> <code>known_faces/ │ ├── person_1/ │ ├── frame_001.jpg │ ├── frame_002.jpg │ └── ... ├── person_2/ │ ├── frame_001.jpg │ ├── frame_002.jpg │ └── ... └── ... </code> </pre>
+known_faces/
+│
+├── person_1/                
+│   ├── img001.jpg        
+│   ├── img002.jpg        
+│   └── ...
+├── person_2/                 
+│   ├── img001.jpg        
+│   ├── img002.jpg        
+│   └── ...
+├── person_3/                 
+│   ├── img001.jpg        
+│   ├── img002.jpg        
+│   └── ...
+├── person_4/                 
+│   ├── img001.jpg        
+│   ├── img002.jpg        
+│   └── ...
+
 
 
 ##### Finally run "main.py"
