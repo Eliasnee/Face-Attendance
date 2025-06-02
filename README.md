@@ -54,8 +54,8 @@ known_faces/
    │   ├── frame_001.jpg        
    │   ├── frame_002.jpg        
    │   └── .../
-   ├── [person_2]/ 
    
+   ├── [person_2]/ 
    │   ├── frame_001.jpg        
    │   ├── frame_002.jpg        
    │   └── ...
