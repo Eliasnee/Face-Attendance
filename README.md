@@ -48,8 +48,7 @@
 
 
 #### Structure of the known faces
-known_faces/
-   
+known_faces/  
    ├── [person_1]/                                   
    │   ├── frame_001.jpg        
    │   ├── frame_002.jpg        
